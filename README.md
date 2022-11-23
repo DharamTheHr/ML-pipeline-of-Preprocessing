@@ -11,7 +11,7 @@ Most of my visualization work is coded with R, directories will include datasets
 ### [ML-Processing](./ML-Processing/ML-pipeline-of-Preprocessing.R)
 
 ![plot](./ML-Processing/Correlation-Matrix.png)   
-![plot](./ML-Perocessing/DistributionPlot.png)
+![plot](./ML-Processing/DistributionPlot.png)
 
 ### [Grand Slam Legends](./tennis/womens-tennis.R)
 
