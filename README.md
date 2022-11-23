@@ -10,8 +10,10 @@ Most of my visualization work is coded with R, directories will include datasets
 
 ### [ML-Processing](./ML-Processing/ML-pipeline-of-Preprocessing.R)
 
-![plot](./ML-Processing/Correlation-Matrix.png)                 ![plot](./ML-Processing/DistributionPlot.png)  
-![plot](./ML-Processing/projectionVSaverage_Monthly_Hours.png)  ![plot](./ML-Processing/DeptVSTurnover.png)
+![plot](./ML-Processing/Correlation-Matrix.png) 
+![plot](./ML-Processing/DistributionPlot.png)  
+![plot](./ML-Processing/DeptVSTurnover.png)
+![plot](./ML-Processing/projectionVSaverage_Monthly_Hours.png)  
 
 
 ### [Grand Slam Legends](./tennis/womens-tennis.R)
