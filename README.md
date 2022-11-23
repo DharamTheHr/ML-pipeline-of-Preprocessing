@@ -12,7 +12,7 @@ Most of my visualization work is coded with R, directories will include datasets
 
 ![plot](./ML-Processing/Correlation-Matrix.png)   
 ![plot](./ML-Processing/DistributionPlot.png)
-![plot](./ML-Processing/Dept VS Turnover.png)
+![plot](./ML-Processing/DeptVSTurnover.png)
 
 ### [Grand Slam Legends](./tennis/womens-tennis.R)
 
