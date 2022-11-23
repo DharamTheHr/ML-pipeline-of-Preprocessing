@@ -8,7 +8,7 @@ Most of my visualization work is coded with R, directories will include datasets
 
 ## Gallery
 
-### [ML-Processing](./ML-Processing/ML-Processing.R)
+### [ML-Processing](./ML-Processing/ML-pipeline-of-Preprocessing.R)
 
 ![plot](./ML-Processing/Correlation-Matrix.png)   
 
