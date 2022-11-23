@@ -1,4 +1,4 @@
-# Personal Data Visualization Projects
+# HR Data Visualization Projects
 
 
 ## Objective
