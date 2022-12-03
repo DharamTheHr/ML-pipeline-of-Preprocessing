@@ -8,7 +8,12 @@ Most of my visualization work is coded with R, directories will include datasets
 
 ## Gallery
 
-### [Employee-Experience](./Employee-Experience/EmpExp.R)
+### [Employee-Experience](./Employee-Experience/EmpExp.R) 
+
+Employee Stisfaction is a critical to an organization, If the employee satisfaction is low, there will ingenral be negative
+consequences for the Organization.
+
+The survey discoveries revealed that a gap exists between the adminstrative and employees. 
 
 ![plot](./Employee-Experience/Factor_Analysis.png) 
 
