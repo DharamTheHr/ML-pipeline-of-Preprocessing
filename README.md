@@ -16,9 +16,8 @@ Most of my visualization work is coded with R, directories will include datasets
 ![plot](./ML-Processing/projectionVSaverage_Monthly_Hours.png)  
 
 
-### [Grand Slam Legends](./tennis/womens-tennis.R)
-
-![plot](./tennis/womens-tennis.png)
+### [Empexp](./Empexp/EmpExp.R)
+![plot](./Factor Analysis.png) 
 
 ### [Nintendo Switch: Top Games](https://github.com/tashapiro/tanya-data-viz/blob/main/nintendo-switch/code/nintendo-switch.R)
 
