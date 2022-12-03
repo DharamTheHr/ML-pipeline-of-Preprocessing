@@ -16,7 +16,7 @@ Most of my visualization work is coded with R, directories will include datasets
 ![plot](./ML-Processing/projectionVSaverage_Monthly_Hours.png)  
 
 
-### [Employee-Experience](./Employee-Experience/EmpExp.R)
+### [Employee-Experience](./https://github.com/DharamTheHr/Employee-Exp/EmpExp.R)
 
 ![plot](./Employee-Experience/Factor_Analysis.png) 
 
